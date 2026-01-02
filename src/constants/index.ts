@@ -283,28 +283,28 @@ export const PROJECTS = [
     title: "Coffee Cafe Website",
     description:
       'Indulge in the aromatic world of "Coffee Cafe Website" - a virtual haven for coffee enthusiasts and connoisseurs alike. This website is designed to capture the essence of a cozy cafe experience, offering a delightful array of coffee blends, brewing techniques, and café culture. Whether you\'re seeking brewing tips or simply want to explore the rich history of coffee, the Coffee Cafe Website is your ultimate guide to all things coffee.',
-    image: "projects/project-4.png",
+    image: "projects/Project-4.png",
     link: "https://rohit-rich.github.io/coffee/",
   },
   {
     title: "Radio World Wide Website",
     description:
       'Tune into the vibrant world of "Radio World Wide Website" - your gateway to a global radio experience. This website is a dynamic platform that brings together diverse radio stations from around the world, offering a rich tapestry of music, talk shows, and cultural programming. Whether you\'re a music lover or a curious listener, Radio World Wide Website provides an immersive audio journey that transcends borders and connects communities through the power of radio.',
-    image: "projects/project-5.png",
+    image: "projects/Project-5.png",
     link: "https://radioworldwide.in/",
   },
   {
     title: "Radio Corporation Website",
     description:
       'Tune into the vibrant world of "Radio World Wide Website" - your gateway to a global radio experience. This website is a dynamic platform that brings together diverse radio stations from around the world, offering a rich tapestry of music, talk shows, and cultural programming. Whether you\'re a music lover or a curious listener, Radio World Wide Website provides an immersive audio journey that transcends borders and connects communities through the power of radio.',
-    image: "projects/project-6.png",
+    image: "projects/Project-6.png",
     link: "https://iradiocorporation.com/",
   },
   {
     title: "Portfolio Website",
     description:
       'A personal portfolio website to showcase my projects, skills, and experience as a developer. It features a clean and modern design, responsive layout, and smooth animations to provide an engaging user experience. The website is built using Next.js and Tailwind CSS, ensuring optimal performance and scalability.',
-    image: "projects/project-7.png",
+    image: "projects/Project-7.png",
     link: "https://sujalrathore.online/",
   }
 ] as const;

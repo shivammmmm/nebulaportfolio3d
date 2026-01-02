@@ -19,7 +19,7 @@ export const Navbar = () => {
           {/* Logo */}
           <Link href="#about-me" className="flex items-center gap-3 group">
             <Image
-              src="/bgr.png"
+              src="bgr.png"
               alt="Shivam Kurmi Logo"
               width={48}
               height={48}
